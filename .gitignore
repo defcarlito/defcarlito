@@ -1,7 +1,5 @@
 .DS_Store
 node_modules
 npm-debug.log
-css/app.css
-css/app.css.map
 
 yarn.lock
