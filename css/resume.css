@@ -55,6 +55,13 @@ h2 {
   font-size: 1.5rem;
 }
 
+.exp-info {
+  display: flex;
+  justify-content: space-between;
+  width: inherit;
+  color: var(--subtle);
+}
+
 .main-container {
   margin-top: 15rem;
   width: 100vw;
@@ -75,6 +82,10 @@ h2 {
 }
 
 @media (max-width: 900px) {
+
+  .exp-info {
+    flex-direction: column;
+  }
 
   .main-container {
     margin-top: 10rem;
@@ -103,5 +114,4 @@ h2 {
   .main-container {
     margin-top: 7rem;
   }
-
 }
