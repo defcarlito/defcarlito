@@ -94,7 +94,7 @@ a:hover {
   border-radius: 1rem;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 850px) {
   .intro .hey {
     font-size: 2rem;
   }
@@ -119,6 +119,10 @@ a:hover {
   .about-me {
     margin-bottom: 2rem;
   }
+  
+  .headshot {
+    width: 100%;
+  }
 
   .navbar {
     top: 2rem;
@@ -130,6 +134,7 @@ a:hover {
     top: 0;
     padding: 0.5rem;
   }
+
 
   .about-me {
     margin-bottom: 0rem;
