@@ -115,10 +115,6 @@ a:hover {
     width: 100%;
     max-width: 100%;
   }
-
-  .about-me {
-    margin-bottom: 2rem;
-  }
   
   .headshot {
     width: 100%;
@@ -133,11 +129,6 @@ a:hover {
   .navbar {
     top: 0;
     padding: 0.5rem;
-  }
-
-
-  .about-me {
-    margin-bottom: 0rem;
   }
 
   .main-container {
