@@ -38,6 +38,17 @@ a:hover {
   text-decoration: none;
 }
 
+.logo {
+  background-color: white;
+  border-radius: 1rem;
+  width: 5rem;
+  height: 5rem;
+  min-width: 5rem;
+  min-height: 5rem;
+  padding: 15px;
+  flex-shrink: 0;
+}
+
 .navbar {
   display: flex;
   gap: 1rem;
@@ -82,7 +93,6 @@ h2 {
 }
 
 @media (max-width: 900px) {
-
   .exp-info {
     flex-direction: column;
   }
